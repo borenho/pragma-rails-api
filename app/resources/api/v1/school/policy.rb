@@ -9,19 +9,19 @@ module API
         end
 
         def show?
-          false
+          true
         end
 
         def create?
-          false
+          true
         end
 
         def update?
-          false
+          true
         end
 
         def destroy?
-          false
+          true
         end
       end
     end

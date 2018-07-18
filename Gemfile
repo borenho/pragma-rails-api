@@ -36,6 +36,7 @@ gem 'pragma-rails'
 # Activerecord
 gem 'annotate'
 gem 'enumerize'
+gem 'active_hash'
 
 # Pagination
 gem 'kaminari'
